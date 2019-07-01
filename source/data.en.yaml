@@ -7,11 +7,11 @@ image: /assets/images/fbimg-home-alt.jpg
 
 
 header:
-    title: Let's decide together! Your platform for petitions and decision-making in a team or community.
+    title: Argument-based discussions and collaborative decision-making for grassroots.
     text: |
-        Edit documents with others at the same time,
-        structure discussions, involve thousands or millions of members,
-        keep voting deadlines, collect votes for petitions.
+        Our mission is to empower people to participate in meaningful discussions and make collaborative decisions.
+
+        Our products are open source.
 
     play:
         title: Introduction
@@ -51,7 +51,7 @@ blocks:
             background-size: 360px 360px
         # label: Our Product
         title: |
-            Developing Open Source software.
+            Use the open source software.
         text: |
             We believe the tools for online participatory democracy should be free to use for everyone.
 
@@ -82,7 +82,7 @@ blocks:
             background-position: 0 10%
             background-size: 122px 122px
         title: |
-            Raising awareness on Participatory Democracy.
+            Join the civic hacktivist community.
         text: |
             We believe the way for us to move forward as a civilization is to globally come together and decide on things.
         button1st:
@@ -115,7 +115,7 @@ blocks:
             background-size: 360px 360px
         # label: Let’s Educate
         title: |
-            Relying on Research and Data.
+            The development of e-democracy.
         text: |
             We collaborate with e-democracy researchers to help develop our products.
         button1st:
