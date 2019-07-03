@@ -1,5 +1,6 @@
 ---
 title: Контакты
+image: /assets/images/fbimg-vision.jpg
 blocks:
   contact-img:
     class:
@@ -7,18 +8,19 @@ blocks:
       - d-sm-block
     style:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+      min-height: 75vh
   contact:
     title: |
       Контакты
     text: |
       |  |  |
       | --- | --- |
-      | Контактное лицо: | <margo@citizenos.com> |
-      | Адрес: | Telliskivi Creative City, Telliskivi 60a, Таллин, Эстония, ЕС |
+      | Contact: | <info@citizenos.com> |
+      | Address: | Telliskivi Creative City, Telliskivi 60a, Tallinn, Estonia, EU |
 
-      #### В социальных сетях:
+      #### On social media
 
-      - Подпишитесь на нас в [Facebook](https://www.facebook.com/citizenos.web).
+      - Follow us on [Facebook](https://www.facebook.com/citizenos.web).
       - [Medium](https://medium.com/citizenos)
-      - [Твиты](https://twitter.com/Citizen_OS) о демократии и открытом управлении.
-      - [Твиты](https://twitter.com/CitizenOSStatus) об обновлениях технического обслуживания.
+      - [Tweets](https://twitter.com/Citizen_OS) about democracy and open governance.
+      - [Tweets](https://twitter.com/CitizenOSStatus) about our technical service updates.

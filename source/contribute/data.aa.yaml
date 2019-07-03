@@ -1,5 +1,6 @@
 ---
 title: crwdns17052:0crwdne17052:0
+image: crwdns19318:0crwdne19318:0
 blocks:
   contribute-img:
     class:
@@ -7,6 +8,7 @@ blocks:
       - crwdns17922:0crwdne17922:0
     style:
       background: 'crwdns17924:0crwdne17924:0'
+      min-height: crwdns20068:0crwdne20068:0
   contribute:
     title: |
       crwdns17926:0crwdne17926:0

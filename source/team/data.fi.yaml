@@ -1,5 +1,6 @@
 ---
 title: Tiimi
+image: /assets/images/fbimg-home.jpg
 blocks:
   team-img:
     class:
@@ -7,6 +8,7 @@ blocks:
       - d-sm-block
     style:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+      min-height: 75vh
   team:
     title: |
       Tiimi
@@ -39,7 +41,7 @@ blocks:
         title: Markkinointi ja viestintä
         name: Liina Guiter
       - 
-        title: Yhteistyökumppanuudet
+        title: Partnerships and Community
         name: Anett Linno
       - 
         title: UX/UI-suunnittelijat

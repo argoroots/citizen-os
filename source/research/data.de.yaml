@@ -1,5 +1,6 @@
 ---
-title: Forschung
+title: Research
+image: /assets/images/fbimg-research.jpg
 blocks:
   research-img:
     class:
@@ -20,13 +21,13 @@ blocks:
       background-position: 90% 10%, 7% 25%
       background-size: 45px 45px, 65px 65px
     title: |
-      Auf Forschung und Daten angewiesen.
+      Relying on research and data.
     text: |
-      Um unsere Produkte weiterzuentwickeln, kooperieren wir mit Forschern der E-Demokratie.
+      We collaborate with e-democracy researchers to help develop our products.
 
-      Wenn Sie ein Forscher der E-Demokratie sind, schreiben Sie bitte an unseren Produktmanager <margo@citizenos.com>.
+      If you are an e-democracy researcher, please write to our Product Manager <margo@citizenos.com>.
     button1st:
-      title: Für News anmelden
+      title: Sign up for news
       url: '#subscribe'
   forward-img:
     class:
@@ -46,11 +47,11 @@ blocks:
     style:
       background: '#F7F7F7'
     title: |
-      Datensammlung
+      Data collection.
     text: |
-      Jegliche Daten sind anonymisiert und werden zum Verständnis von Auswirkungen der Online-Partizipatorischen Demokratie genutzt.
+      All data is anonymized and used to understand the effects of online participatory democracy.
     button1st:
-      title: Blog lesen
+      title: Read blog
       url: https://medium.com/citizenos
   conference-img:
     class:
@@ -69,14 +70,13 @@ blocks:
       - order-5
       - order-sm-4
     title: |
-      Konferenz.
+      Conference.
     text: |
-      Die erste CosCon Konferenz “Political Representation in the Digital Age” (Politische Repräsentation im digitalen Zeitalter) wurde im Jahre 2017 gehalten. Die Themen waren:
-
-      - Grenzen der repräsentativen Demokratie
-      - Handhabung von radikalen neuen Praktiken
-      - Civic Technologien änderen die Politik tatsächlich
+      The first CosCon conference, “Political Representation in the Digital Age” was held in 2017. The topics were:
+      - Limits of representative democracy.
+      - Handling radically new practices.
+      - Civic technologies really changing politics.
       { .bullet }
     button1st:
-      title: Mitwirken
+      title: Contribute
       url: /contribute/

@@ -1,50 +1,49 @@
+---
 title: Põhikiri
-
-
+image: /assets/images/fbimg-research.jpg
 blocks:
-    statute-img:
-        class:
-            - d-none
-            - d-sm-block
-        style:
-            background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+  statute-img:
+    class:
+      - d-none
+      - d-sm-block
+    style:
+      background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+  statute:
+    title: |
+      Sihtasutuse Citizen OS Põhikiri
+    text: |
+      1. ÜLDSÄTTED
+          1. Sihtasutuse nimeks on Sihtasutus Citizen OS (edaspidi Sihtasutus).
+          1. Sihtasutuse asukohaks on Harju maakond, Tallinna linn.
+          1. Sihtasutuse eesmärk on ühiskondlike probleemide lahendamiseks tehnoloogiapõhiste arutelu- ja otsustusprotsesside loomine, arendamine ja avalikult kättesaadavaks tegemine.
+          1. Eesmärgi saavutamiseks täidab Sihtasutus muuhulgas järgmisi ülesandeid:
+              1. uurib, loob ja arendab kodanikualgatust ning kodanike osalemist toetavaid infotehnoloogilisi süsteeme ja protsesse;
+              1. haldab ja arendab e-otsustamise platvormi Citizen OS,
+              1. arendab e-demokraatia lahenduste loomise ja uurimisega seotud organisatsioonide võrgustikku,
+              1. algatab ja viib vajaduse korral läbi muid eesmärgi saavutamiseks vajalikke projekte ja tegevusi.
+          1. Sihtasutus on asutatud tähtajatult.
+          1. Sihtasutuse majandusaasta algab 01. jaanuaril ja lõpeb 31. detsembril.
 
-    statute:
-        title: |
-            Sihtasutuse Citizen OS põhikiri
-        text: |
-            1. ÜLDSÄTTED
-                1. Sihtasutuse nimeks on Sihtasutus Citizen OS (edaspidi Sihtasutus).
-                1. Sihtasutuse asukohaks on Harju maakond, Tallinna linn.
-                1. Sihtasutuse eesmärk on ühiskondlike probleemide lahendamiseks tehnoloogiapõhiste arutelu- ja otsustusprotsesside loomine, arendamine ja avalikult kättesaadavaks tegemine.
-                1. Eesmärgi saavutamiseks täidab Sihtasutus muuhulgas järgmisi ülesandeid:
-                    1. uurib, loob ja arendab kodanikualgatust ning kodanike osalemist toetavaid infotehnoloogilisi süsteeme ja protsesse;
-                    1. haldab ja arendab e-otsustamise platvormi Citizen OS,
-                    1. arendab e-demokraatia lahenduste loomise ja uurimisega seotud organisatsioonide võrgustikku,
-                    1. algatab ja viib vajaduse korral läbi muid eesmärgi saavutamiseks vajalikke projekte ja tegevusi.
-                1. Sihtasutus on asutatud tähtajatult.
-                1. Sihtasutuse majandusaasta algab 01.jaanuaril ja lõpeb 31.detsembril.
+      1. VARA
+          1. Sihtasutus saab oma vara annetustest, kingitustest, pärandustest, sihtotstarbelistest eraldistest, sihtasutuse põhikirjaliste eesmärkide saavutamist toetavast majandustegevusest ja muudest allikatest.
+          1. Sihtasutusele laekuva vara võtab vastu ja korraldab selle üle arvepidamise sihtasutuse juhatus.
+          1. Sihtasutuse vara kasutamine ja käsutamine toimub juhatuse poolt sihtasutuse nõukogu kehtestatud korras.
+          1. Sihtasutusel on vastavalt seadusele õigus välja anda stipendiume.
+          1. Sihtasutus ei jaga oma vara või tulu ega anna materiaalset abi või rahaliselt hinnatavaid soodustusi oma asutajale, juhtimis- või kontrollorgani liikmele, temale annetusi teinud isikule või sellise isiku juhtimis- või kontrollorgani liikmele ega nimetatud isikutega seotud isikutele.
 
-            1. VARA
-                1. Sihtasutus saab oma vara annetustest, kingitustest, pärandustest, sihtotstarbelistest eraldistest, sihtasutuse põhikirjaliste eesmärkide saavutamist toetavast majandustegevusest ja muudest allikatest.
-                1. Sihtasutusele laekuva vara võtab vastu ja korraldab selle üle arvepidamise sihtasutuse juhatus.
-                1. Sihtasutuse vara kasutamine ja käsutamine toimub juhatuse poolt sihtasutuse nõukogu kehtestatud korras.
-                1. Sihtasutusel on vastavalt seadusele õigus välja anda stipendiume.
-                1. Sihtasutus ei jaga oma vara või tulu ega anna materiaalset abi või rahaliselt hinnatavaid soodustusi oma asutajale, juhtimis- või kontrollorgani liikmele, temale annetusi teinud isikule või sellise isiku juhtimis- või kontrollorgani liikmele ega nimetatud isikutega seotud isikutele.
+      1. JUHTIMINE
+          1. Sihtasutuse tegevust juhivad ja korraldavad nõukogu ja juhatus.
+          1. Sihtasutuse juhatusse määrab nõukogu üks kuni kolm liiget kuni kolmeks aastaks. Juhatuse liikmete tasustamisel ja tagasikutsumisel lähtub nõukogu seadusest.
+          1. Sihtasutuse juhatus juhib ja esindab vastavalt seadusele sihtasutust kõikides toimingutes lähtudes oma õiguste ja kohustuste täitmisel seadusest ja nõukogu otsustest.
+          1. Juhatuse liikme töö tasustamise otsustab nõukogu.
+          1. Sihtasutuse nõukokku kuulub kolm kuni viis liiget, kes nimetatakse algselt nõukogusse asutajate poolt. Edaspidi valitakse nõukogu liikmed ametisse nõukogu poolt. Nõukogu liikmed valitakse kolmeks (3) aastaks. Nõukogu liikmel ei ole hääleõigust, kui otsustatakse tema tagasikutsumist või valimist järgmiseks ametiperioodiks.
+          1. Nõukogu liikmed valivad endi hulgast esimehe, kes korraldab nõukogu tegevust. Nõukogu esimehe volitused kestavad kolm (3) aastat.
+          1. Nõukogu liikme volitused algavad tema nõukogu liikmeks valimise päevast ja lõpevad volituste lõppemise tähtpäeval või nõukogust tagasikutsumise otsuse jõustumise päeval.
+          1. Nõukogul on kõik seadusest tulenevad õigused ja kohustused, sealhulgas muuta sihtasutuse põhikirja ja määrata vajadusel sihtasutusele audiitor kuni kaheks aastaks ning audiitor tagasi kutsuda.
+          1. Nõukogu liikmete tööd ei tasustata.
+          1. Nõukogu liige kutsutakse tagasi nõukogu poolt. Nõukogu võib nõukogu liikme igal ajal, sõltumata põhjusest, tagasi kutsuda. Nõukogu liikme tagasikutsumisel nõukogust ei maksta talle hüvitist.
 
-            1. JUHTIMINE
-                1. Sihtasutuse tegevust juhivad ja korraldavad nõukogu ja juhatus.
-                1. Sihtasutuse juhatusse määrab nõukogu üks kuni kolm liiget kuni kolmeks aastaks. Juhatuse liikmete tasustamisel ja tagasikutsumisel lähtub nõukogu seadusest.
-                1. Sihtasutuse juhatus juhib ja esindab vastavalt seadusele sihtasutust kõikides toimingutes lähtudes oma õiguste ja kohustuste täitmisel seadusest ja nõukogu otsustest.
-                1. Juhatuse liikme töö tasustamise otsustab nõukogu.
-                1. Sihtasutuse nõukokku kuulub kolm kuni viis liiget, kes nimetatakse algselt nõukogusse asutajate poolt. Edaspidi valitakse nõukogu liikmed ametisse nõukogu poolt. Nõukogu liikmed valitakse kolmeks (3) aastaks. Nõukogu liikmel ei ole hääleõigust, kui otsustatakse tema tagasikutsumist või valimist järgmiseks ametiperioodiks.
-                1. Nõukogu liikmed valivad endi hulgast esimehe, kes korraldab nõukogu tegevust. Nõukogu esimehe volitused kestavad kolm (3) aastat.
-                1. Nõukogu liikme volitused algavad tema nõukogu liikmeks valimise päevast ja lõpevad volituste lõppemise tähtpäeval või nõukogust tagasikutsumise otsuse jõustumise päeval.
-                1. Nõukogul on kõik seadusest tulenevad õigused ja kohustused, sealhulgas muuta sihtasutuse põhikirja ja määrata vajadusel sihtasutusele audiitor kuni kaheks aastaks ning audiitor tagasi kutsuda.
-                1. Nõukogu liikmete tööd ei tasustata.
-                1. Nõukogu liige kutsutakse tagasi nõukogu poolt. Nõukogu võib nõukogu liikme igal ajal, sõltumata põhjusest, tagasi kutsuda. Nõukogu liikme tagasikutsumisel nõukogust ei maksta talle hüvitist.
-
-            1. LÕPPSÄTTED
-                1. Sihtasutuse ühinemise, jagunemise ja lõpetamise otsustab nõukogu seaduses sätestatud korras.
-                1. Kõigis olukordades, mida pole põhikirjaga ette nähtud, kohaldatakse Eesti Vabariigi õigusaktides sätestatut.
-                1. Sihtasutuse lõpetamisel antakse järelejäänud vara üle tulumaksusoodustusega mittetulundusühingute ja sihtasutuste ja usuliste ühenduste nimekirja liikmeks olevale sarnase eesmärgiga organisatsioonile või avalik-õiguslikule juriidilise isikule.
+      1. LÕPPSÄTTED
+          1. Sihtasutuse ühinemise, jagunemise ja lõpetamise otsustab nõukogu seaduses sätestatud korras.
+          1. Kõigis olukordades, mida pole põhikirjaga ette nähtud, kohaldatakse Eesti Vabariigi õigusaktides sätestatut.
+          1. Sihtasutuse lõpetamisel antakse järelejäänud vara üle tulumaksusoodustusega mittetulundusühingute ja sihtasutuste ja usuliste ühenduste nimekirja liikmeks olevale sarnase eesmärgiga organisatsioonile või avalik-õiguslikule juriidilise isikule.

@@ -1,5 +1,6 @@
 ---
 title: crwdns17014:0crwdne17014:0
+image: crwdns19312:0crwdne19312:0
 blocks:
   careers-img:
     class:
@@ -7,6 +8,7 @@ blocks:
       - crwdns17892:0crwdne17892:0
     style:
       background: 'crwdns17894:0crwdne17894:0'
+      min-height: crwdns20062:0crwdne20062:0
   careers:
     title: |
       crwdns17896:0crwdne17896:0

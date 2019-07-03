@@ -1,16 +1,17 @@
 ---
 title: Vision
+image: /assets/images/fbimg-vision.jpg
 blocks:
   start-img:
     class:
       - order-1
     style:
       background-color: '#AAF3DD'
-      background-image: url(/assets/images/bubble-dots.png), url(/assets/images/bubble-yellow.svg)
-      background-position: 0 10%, 75% 20%
-      background-size: 350px 350px, 65px 65px
+      background-image: url(/assets/images/vision-start.png), url(/assets/images/bubble-dots.png), url(/assets/images/bubble-yellow.svg)
+      background-position: center center, 0 10%, 75% 20%
+      background-size: 500px 500px, 350px 350px, 65px 65px
     text: |
-      [![](/assets/images/vision-start.png){ .img-fluid }](https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en){data-toggle=modal data-target=#video-popup}
+      [► Play video](https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en){.btn .btn-primary data-toggle=modal data-target=#video-popup}
   start:
     class:
       - order-0
@@ -22,15 +23,15 @@ blocks:
       background-position: 10% 15%, 90% 90%
       background-size: 42px 42px, 102px 102px
     title: |
-      Sie haben eine Stimme und diese muss gehört werden.
+      You have a voice and it needs to be heard.
     text: |
-      Wir glauben daran, dass soziale Veränderungen eintreten, wenn Menschen zusammenkommen und Entscheidungen treffen.
+      We believe social change happens when people come together and decide on things.
 
-      - [Involviert werden](#individual)
-      - [An Citizen OS mitwirken](#awareness)
+      - [Get involved](#individual)
+      - [Contribute to Citizen OS](#awareness)
       { .arrow }
     button1st:
-      title: Für News anmelden
+      title: Sign up for news
       url: '#subscribe'
   individual-img:
     class:
@@ -47,15 +48,15 @@ blocks:
       - order-3
       - order-sm-2
     title: |
-      Eine Person kann den Unterschied machen.
+      One person can make a difference.
     text: |
-      Partizipative Demokratie bedeutet eine individuelle Teilnahme an politischen Entscheidungen, die das Leben beeinflussen.
+      Participatory democracy is individual participation in political decisions that affect your life.
 
-      ## Es gibt aber auch Stärke in der Masse.
+      ## But there’s definitely strength in numbers.
 
-      Regierungen vertrauen ihren Bürgern zunehmend, wenn es darum geht, Lösungen für schwierige soziale Probleme zu finden.
+      Governments are increasingly trusting citizens to help solve difficult social issues.
     button1st:
-      title: Plattform verwenden
+      title: Use platform
       url: https://app.citizenos.com
       target: _blank
   awareness:
@@ -68,9 +69,9 @@ blocks:
       background-size: 164px 164px, cover
       background-position: 10% 10%
     title: |
-      Gemeinsam können wir Online-Partizipative Demokratie voranbringen.
+      Together we can advance online participatory democracy.
     text: |
-      Wir entwickeln Produkte, welche Menschen dabei helfen, eine bessere Zukunft zu schaffen. Ob Sie ein Entwickler, Übersetzer, Forscher, Designer, Hacktivist oder Journalist sind - Treten Sie uns bei!
+      We are developing products that help people create a better future. Whether you are a developer, translator, researcher, designer, hactivist or journalist - join us!
     button1st:
-      title: Mitwirken
+      title: Contribute
       url: /contribute/

@@ -1,5 +1,6 @@
 ---
 title: Osallistu
+image: /assets/images/fbimg-vision.jpg
 blocks:
   contribute-img:
     class:
@@ -7,6 +8,7 @@ blocks:
       - d-sm-block
     style:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+      min-height: 75vh
   contribute:
     title: |
       Mi

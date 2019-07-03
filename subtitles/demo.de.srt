@@ -1,148 +1,148 @@
 1
 00:00:00,000 --> 00:00:03,160
-Citizen OS Plattform Demonstration
+Citizen OS Platform Demo.
 
 2
 00:00:03,180 --> 00:00:06,600
-Hallo und willkommen auf Citizenos.Com
+Hello and welcome to Citizenos.com.
 
 3
 00:00:06,600 --> 00:00:09,440
-Klicken Sie auf die Schaltfläche Plattform nutzen.
+Click on the Use Platform button.
 
 4
 00:00:09,440 --> 00:00:12,120
-Die Plattform ist in vielen Sprachen verfügbar,
+The platform is available in many languages,
 
 5
 00:00:12,120 --> 00:00:16,700
-wählen Sie einfach Ihre Sprache aus und sollte diese noch nicht verfügbar sein, lassen Sie es uns bitte wissen.
+so select your language and if it is not yet supported, please let us know.
 
 6
 00:00:16,700 --> 00:00:20,620
-Dieses sind öffentliche Themen, welche derzeit diskutiert werden.
+These are all public topics that are being discussed right now.
 
 7
 00:00:20,620 --> 00:00:24,950
-Sie können auf diese klicken und lesen aber um
+You can click on them, read them, but in order to
 
 8
 00:00:24,950 --> 00:00:29,960
-mitwirken zu können, melden Sie sich entweder mit Ihrem Facebook oder Google Konto,
+participate, you need to login using your Facebook or Google account,
 
 9
 00:00:29,960 --> 00:00:34,400
-der estnischen ID-Karte oder mithilfe eines neuen Benutzerkontos an.
+the Estonian ID card, or by creating a new user account.
 
 10
 00:00:36,060 --> 00:00:38,840
-Sobald ich angemeldet bin,
+Once I have logged in,
 
 11
 00:00:38,840 --> 00:00:43,240
-wird dieser Abschnitt aktiv und ich kann meine Hauptaussage hier machen,
+this argument section becomes active and I can make my main statement here,
 
 12
 00:00:43,240 --> 00:00:51,660
-erklären und beweisen und als Pro oder Kontra Argument senden. Um Dein eigenes Thema zu erstellen,
+explain and prove it and post as a pro or con argument. To create your own topic,
 
 13
 00:00:51,660 --> 00:00:56,020
-im Menu links auf Thema erstellen gehen.
+go to create topic on the left hand menu.
 
 14
 00:00:56,020 --> 00:01:00,520
-Und hier können Sie das Dokument mit
+And here you can edit the document with
 
 15
 00:01:00,520 --> 00:01:04,920
-anderen gleichzeitig bearbeiten.
+others at the same time.
 
 16
 00:01:04,920 --> 00:01:09,900
-Inline Kommentare sind im Bearbeitungsmodus verfügbar.
+Inline comments are available while in editing mode.
 
 17
 00:01:09,900 --> 00:01:16,800
-Navigieren Sie zu den Einstellungen, um das Thema mittels Twitter Hashtag privat oder öffentlich zu machen
+Go to to settings to make the topic private or public add a Twitter hashtag,
 
 18
 00:01:16,800 --> 00:01:21,520
-Laden Sie Benutzer zum Beitritt ein oder um den Link zu teilen.
+invite users to join or share the link.
 
 19
 00:01:22,720 --> 00:01:25,440
-Um eine Übersicht Ihrer Themen zu erhalten,
+To get an overview of your topics,
 
 20
 00:01:25,440 --> 00:01:29,780
-navigieren Sie zu Meine Themen im Menu auf der linken Seite.
+go to my topics on the left-hand menu.
 
 21
 00:01:32,200 --> 00:01:38,360
-Hier können Sie Bearbeitungsrechte an die eingeladenen Benutzer vergeben.
+Here you can assign editing rights to the users you invited.
 
 22
 00:01:39,380 --> 00:01:43,100
-Wenn Sie viele Themen mit der gleichen Grupppe besprechen wollen,
+If you want to discuss many topics with the same group of people,
 
 23
 00:01:43,100 --> 00:01:46,020
-erstellen Sie einfach Gruppen.
+you can create groups.
 
 24
 00:01:47,340 --> 00:01:52,860
-Jedes Mal, wenn ein neues Thema erstellt wurde, erhalten Mitglieder dazu eine automatische E-Mail.
+Every time a new topic is created, members get an automatic email.
 
 25
 00:01:52,860 --> 00:02:00,360
-Wenn Sie eine Abstimmung zur Erreichung einer Entscheidung benötigen, können Sie das Thema zur Abstimmung senden.
+If you need to vote to reach a decision, you can send the topic to vote.
 
 26
 00:02:01,380 --> 00:02:06,000
-Ab jetzt kann das Thema nicht mehr bearbeitet werden. Sie können zwischen regulär und
+Now the topic can no longer be edited. You can choose between regular and
 
 27
 00:02:06,000 --> 00:02:12,640
-individuell wählen. Eine Befugnisübertragung einer Abstimmung ist ebenfalls möglich, was bedeutet,
+custom vote. And delegation of the vote is also possible, which means
 
 28
 00:02:12,640 --> 00:02:17,700
-für dieses Thema können Leute ihre Stimme an einen anderen Benutzer delegieren.
+for this topic people can delegate their vote to another user.
 
 29
 00:02:19,060 --> 00:02:22,480
-Sie können auch eine Frist für die Abstimmung festlegen.
+You can also set a deadline for the voting.
 
 30
 00:02:24,620 --> 00:02:31,780
-Während die Abstimmung offen ist, können Sie die Ergebnisse nicht sehen, um das Ergebnis der Abstimmung nicht zu beeinflussen.
+While voting is open, you cannot see the results to not influence the outcome of the vote.
 
 31
 00:02:32,460 --> 00:02:36,160
-Sobald alle abgestimmt haben oder die Abstimmungsfrist abgelaufen ist,
+Once everyone has voted or the voting deadline has arrived,
 
 32
 00:02:36,160 --> 00:02:39,100
-können Sie das Thema zur Nachuntersuchung senden.
+you can send the topic to follow-up.
 
 33
 00:02:39,100 --> 00:02:45,060
-Hier können Sie kurze Aktualisierungen darüber veröffentlichen, wie die Entscheidung verläuft.
+Here, you can post brief updates on how the decision is moving along.
 
 34
 00:02:45,980 --> 00:02:48,800
-Wie viel kostet Citizen OS?
+How much does Citizen OS cost?
 
 35
 00:02:48,800 --> 00:02:54,000
-Es ist für alle mit Mobiltelefon, Tablet oder Computer für immer kostenlos.
+It is free to use for everyone forever on your mobile, tablet or computer.
 
 36
 00:02:54,000 --> 00:02:55,120
-Vielen Dank fürs Zuschauen.
+Thanks for watching.
 
 37
 00:02:55,120 --> 00:02:57,200
-Open Source Code ist auf GitHub verfügbar.
+Open Source code available on GitHub.
 

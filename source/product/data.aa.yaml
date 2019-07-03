@@ -1,16 +1,17 @@
 ---
 title: crwdns17368:0crwdne17368:0
+image: crwdns19322:0crwdne19322:0
 blocks:
   decision-img:
     class:
       - crwdns19182:0crwdne19182:0
     style:
       background-color: 'crwdns18188:0crwdne18188:0'
-      background-image: crwdns19132:0crwdne19132:0
-      background-position: crwdns19134:0crwdne19134:0
-      background-size: crwdns19136:0crwdne19136:0
+      background-image: crwdns20076:0crwdne20076:0
+      background-position: crwdns20078:0crwdne20078:0
+      background-size: crwdns20080:0crwdne20080:0
     text: |
-      crwdns19176:0{ .img-fluid }crwdne19176:0
+      crwdns20082:0crwdne20082:0
   decision:
     class:
       - crwdns19184:0crwdne19184:0
@@ -107,10 +108,10 @@ blocks:
         title: crwdns18314:0crwdne18314:0
         text: |
           crwdns18316:0crwdne18316:0
-        subtext: crwdns18318:0crwdne18318:0
+        subtext: crwdns20022:0crwdne20022:0
         button:
-          title: crwdns18320:0crwdne18320:0
-          url: crwdns18322:0crwdne18322:0
+          title: crwdns20024:0crwdne20024:0
+          url: crwdns20026:0crwdne20026:0
       consult:
         title: crwdns18324:0crwdne18324:0
         text: |

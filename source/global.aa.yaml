@@ -25,14 +25,19 @@ languages:
   lt: crwdns17256:0crwdne17256:0
   lv: crwdns17258:0crwdne17258:0
   ru: crwdns17260:0crwdne17260:0
-  ua: crwdns17262:0crwdne17262:0
+  ua: crwdns19286:0crwdne19286:0
 selectLanguage: crwdns17264:0crwdne17264:0
 platformLink:
   title: crwdns17266:0crwdne17266:0
   url: crwdns17268:0crwdne17268:0
 mobileMenu: crwdns17270:0crwdne17270:0
+newsletter:
+  title: crwdns19288:0crwdne19288:0
+  text: crwdns20028:0crwdne20028:0
+  input: crwdns19290:0crwdne19290:0
+  button: crwdns19284:0crwdne19284:0
 footer:
-  text: crwdns17272:0crwdne17272:0
+  text: crwdns20030:0crwdne20030:0
   navigation:
     about:
       title: crwdns18092:0crwdne18092:0
@@ -53,7 +58,7 @@ footer:
           title: crwdns18110:0crwdne18110:0
           url: crwdns18112:0crwdne18112:0
     community:
-      title: crwdns18114:0crwdne18114:0
+      title: crwdns20104:0crwdne20104:0
       links:
         blog:
           title: crwdns18116:0crwdne18116:0
@@ -72,7 +77,7 @@ footer:
           url: crwdns18132:0crwdne18132:0
         legal:
           title: crwdns18134:0crwdne18134:0
-          url: crwdns18136:0crwdne18136:0
+          url: crwdns20070:0crwdne20070:0
         github:
           title: crwdns18138:0crwdne18138:0
           url: crwdns18140:0crwdne18140:0

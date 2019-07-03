@@ -1,5 +1,6 @@
 ---
 title: Contact
+image: /assets/images/fbimg-vision.jpg
 blocks:
   contact-img:
     class:
@@ -7,13 +8,14 @@ blocks:
       - d-sm-block
     style:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+      min-height: 75vh
   contact:
     title: |
       Contact
     text: |
       |  |  |
       | --- | --- |
-      | Contact: | <margo@citizenos.com> |
+      | Contact: | <info@citizenos.com> |
       | Address: | Telliskivi Creative City, Telliskivi 60a, Tallinn, Estonia, EU |
 
       #### On social media

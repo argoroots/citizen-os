@@ -1,5 +1,6 @@
 ---
 title: Société
+image: /assets/images/fbimg-home.jpg
 blocks:
   company-img:
     class:
@@ -7,6 +8,7 @@ blocks:
       - d-sm-block
     style:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+      min-height: 75vh
   company:
     title: |
       Société
@@ -16,10 +18,12 @@ blocks:
       - |
         Toutes les données sont chiffrées et gardées en sécurité dans des serveurs cloud.
       - |
-        ### Citizen OS est soutenu par :
+        [Please find the Articles of Association of Citizen OS Foundation here.](https://drive.google.com/file/d/1xDUcBjs6NYtF5d8Z3KeYPML60D2B254J/view) The document is in Estonian at the moment, but in the process of being translated into other languages.
       - |
-        - [la fondation Let’s Do It!](https://www.letsdoitworld.org/)
-        - [L'assemblée de coopération estonienne](https://www.kogu.ee/en/)
+        #### Citizen OS is supported by:
+      - |
+        - [Let’s Do It! Foundation](https://www.letsdoitworld.org/)
+        - [Estonian Cooperation Assembly](https://www.kogu.ee/en/)
         { .arrow }
       - |
-        Le projet Citizen OS a été financé par [Des bourses des fonds de l'ONG EEA](https://oef.org.ee/fr/our-work/ngo-fund/) par la [Open Estonia Foundation](https://oef.org.ee/fr/).
+        Project Citizen OS has been funded by the [NGO Fund EEA Grants](https://oef.org.ee/en/our-work/ngo-fund/) through the [Open Estonia Foundation](https://oef.org.ee/en/).

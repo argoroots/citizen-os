@@ -1,16 +1,17 @@
 ---
 title: Vision
+image: /assets/images/fbimg-vision.jpg
 blocks:
   start-img:
     class:
       - order-1
     style:
       background-color: '#AAF3DD'
-      background-image: url(/assets/images/bubble-dots.png), url(/assets/images/bubble-yellow.svg)
-      background-position: 0 10%, 75% 20%
-      background-size: 350px 350px, 65px 65px
+      background-image: url(/assets/images/vision-start.png), url(/assets/images/bubble-dots.png), url(/assets/images/bubble-yellow.svg)
+      background-position: center center, 0 10%, 75% 20%
+      background-size: 500px 500px, 350px 350px, 65px 65px
     text: |
-      [![](/assets/images/vision-start.png){ .img-fluid }](https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=fr){data-toggle=modal data-target=#video-popup}
+      [► Play video](https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en){.btn .btn-primary data-toggle=modal data-target=#video-popup}
   start:
     class:
       - order-0

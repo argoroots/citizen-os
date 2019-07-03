@@ -1,0 +1,17 @@
+---
+title: Lakiteknistä
+image: /assets/images/fbimg-vision.jpg
+blocks:
+  legal-img:
+    class:
+      - d-none
+      - d-sm-block
+    style:
+      background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+      min-height: 75vh
+  legal:
+    title: |
+      Lakiteknistä
+    text: |
+      [Articles of Association of the Foundation Citizen OS](/fi/statute/)
+      [Citizen OS API Terms of Use](https://app.citizenos.com/en/topics/7abdd244-d45b-40d3-997c-a6290d4e972c)

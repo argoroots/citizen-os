@@ -1,16 +1,17 @@
 ---
 title: Tuote
+image: /assets/images/fbimg-product.jpg
 blocks:
   decision-img:
     class:
       - order-1
     style:
       background-color: '#FFF1AD'
-      background-image: url(/assets/images/bubble-dots.png), url(/assets/images/bubble-orange.svg)
-      background-position: 0% 20%, 70% 10%
-      background-size: 350px 350px, 100px 100px
+      background-image: url(/assets/images/product-start.png), url(/assets/images/bubble-dots.png), url(/assets/images/bubble-orange.svg)
+      background-position: center center, 0% 20%, 70% 10%
+      background-size: 500px 500px, 350px 350px, 100px 100px
     text: |
-      [![](/assets/images/product-start.png){ .img-fluid }](https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=fi){data-toggle=modal data-target=#video-popup}
+      [► Play demo](https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en){.btn .btn-primary data-toggle=modal data-target=#video-popup}
   decision:
     class:
       - order-0
@@ -129,10 +130,10 @@ blocks:
         title: Integroi API
         text: |
           Käytä Citizen OS:n ohjelmointirajapintaa luodaksesi verkon päätöksenteolle oman brändisi mukaisen alustan.
-        subtext: Tarjouspohjainen
+        subtext: Aina ilmainen!
         button:
-          title: Ota yhteyttä
-          url: /fi/contact/
+          title: GitHub
+          url: https://github.com/citizenos/citizenos-web
       consult:
         title: Konsultoi ja integroi
         text: |

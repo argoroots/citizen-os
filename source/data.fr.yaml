@@ -1,14 +1,11 @@
 ---
+image: /assets/images/fbimg-home-alt.jpg
 header:
   title: Décidons ensemble ! Votre plateforme pour les pétitions et la prise de décision dans une équipe ou une communauté.
   text: |
-    Modifiez des documents avec d'autres en même temps,
-    structurez les débats, impliquez des milliers ou des millions de membres,
-    respectez les délais de vote, recueillez des votes pour les pétitions.
-
-    Nous sommes une entreprise sociale Open Source.
-
-    La plate-forme est actuellement disponible en 12 langues.
+    Edit documents with others at the same time,
+    structure discussions, involve thousands or millions of members,
+    keep voting deadlines, collect votes for petitions.
   play:
     title: Introduction
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=fr

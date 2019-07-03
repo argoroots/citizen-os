@@ -1,12 +1,11 @@
 ---
+image: /assets/images/fbimg-home-alt.jpg
 header:
   title: Otsustame koos! Parim platvorm tiimide või kogukondadega petitsioonide loomiseks ja otsuste langetamiseks.
   text: |
-    Muuda dokumente samaaegselt teiste kasutajatega, koosta aruteluplaane, kaasa tuhandeid või miljoneid kasutajaid, sea hääletustähtaegu ja kogu petitsioonidele toetushääli.
-
-    See on avatud lähtekoodiga sotsiaalne algatus.
-
-    Meie platvormi saab hetkel kasutada 12 keeles.
+    Edit documents with others at the same time,
+    structure discussions, involve thousands or millions of members,
+    keep voting deadlines, collect votes for petitions.
   play:
     title: Tutvustus
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=et

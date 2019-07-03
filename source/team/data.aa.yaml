@@ -1,5 +1,6 @@
 ---
 title: crwdns17716:0crwdne17716:0
+image: crwdns19328:0crwdne19328:0
 blocks:
   team-img:
     class:
@@ -7,6 +8,7 @@ blocks:
       - crwdns18500:0crwdne18500:0
     style:
       background: 'crwdns18502:0crwdne18502:0'
+      min-height: crwdns20072:0crwdne20072:0
   team:
     title: |
       crwdns18504:0crwdne18504:0
@@ -39,7 +41,7 @@ blocks:
         title: crwdns19116:0crwdne19116:0
         name: crwdns19118:0crwdne19118:0
       - 
-        title: crwdns19120:0crwdne19120:0
+        title: crwdns20044:0crwdne20044:0
         name: crwdns19122:0crwdne19122:0
       - 
         title: crwdns19124:0crwdne19124:0

@@ -1,5 +1,6 @@
 ---
 title: Yritys
+image: /assets/images/fbimg-home.jpg
 blocks:
   company-img:
     class:
@@ -7,6 +8,7 @@ blocks:
       - d-sm-block
     style:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+      min-height: 75vh
   company:
     title: |
       Yritys
@@ -16,10 +18,12 @@ blocks:
       - |
         Kaikki tiedot salataan ja pidetään turvassa pilvipalvelimilla.
       - |
-        #### Citizen OS:ää tukevat:
+        [Please find the Articles of Association of Citizen OS Foundation here.](https://drive.google.com/file/d/1xDUcBjs6NYtF5d8Z3KeYPML60D2B254J/view) The document is in Estonian at the moment, but in the process of being translated into other languages.
+      - |
+        #### Citizen OS is supported by:
       - |
         - [Let’s Do It! Foundation](https://www.letsdoitworld.org/)
-        - [Estoanian Cooperation Assembly](https://www.kogu.ee/en/)
+        - [Estonian Cooperation Assembly](https://www.kogu.ee/en/)
         { .arrow }
       - |
-        Citizen OS -hanketta on tukenut [NGO Fund EEA Grants](https://oef.org.ee/en/our-work/ngo-fund/), välittäjänä [Open Estonia Foundation](https://oef.org.ee/en/).
+        Project Citizen OS has been funded by the [NGO Fund EEA Grants](https://oef.org.ee/en/our-work/ngo-fund/) through the [Open Estonia Foundation](https://oef.org.ee/en/).

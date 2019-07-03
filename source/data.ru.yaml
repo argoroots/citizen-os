@@ -1,14 +1,11 @@
 ---
+image: /assets/images/fbimg-home-alt.jpg
 header:
   title: Давайте принимать решения вместе! Ваша платформа для создания петиций и принятия решений в команде или сообществе.
   text: |
-    Редактируйте документы одновременно с другими участниками,
-    структурируйте обсуждения, в которых могут участвовать тысячи или миллионы людей,
-    создавайте ограниченные по времени голосования, собирайте голоса для петиций.
-
-    Мы — социальное предприятие с открытым кодом.
-
-    Платформа поддерживает 12 языков.
+    Edit documents with others at the same time,
+    structure discussions, involve thousands or millions of members,
+    keep voting deadlines, collect votes for petitions.
   play:
     title: Введение
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=ru

@@ -1,5 +1,6 @@
 ---
-title: Mitwirken
+title: Contribute
+image: /assets/images/fbimg-vision.jpg
 blocks:
   contribute-img:
     class:
@@ -7,9 +8,10 @@ blocks:
       - d-sm-block
     style:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+      min-height: 75vh
   contribute:
     title: |
-      Wie können Sie mitwirken?
+      How to contribute?
     text: |
 
       Help us improve the Citizen OS platform as a volunteer. Whether you are a developer, translator, researcher, designer, hacktivist or journalist - join us!

@@ -1,16 +1,17 @@
 ---
 title: crwdns18946:0crwdne18946:0
+image: crwdns19330:0crwdne19330:0
 blocks:
   start-img:
     class:
       - crwdns19228:0crwdne19228:0
     style:
       background-color: 'crwdns18952:0crwdne18952:0'
-      background-image: crwdns18954:0crwdne18954:0
-      background-position: crwdns18956:0crwdne18956:0
-      background-size: crwdns18958:0crwdne18958:0
+      background-image: crwdns20084:0crwdne20084:0
+      background-position: crwdns20086:0crwdne20086:0
+      background-size: crwdns20088:0crwdne20088:0
     text: |
-      crwdns19178:0{ .img-fluid }crwdne19178:0
+      crwdns20092:0crwdne20092:0
   start:
     class:
       - crwdns19230:0crwdne19230:0

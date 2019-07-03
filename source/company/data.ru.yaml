@@ -1,5 +1,6 @@
 ---
 title: Компания
+image: /assets/images/fbimg-home.jpg
 blocks:
   company-img:
     class:
@@ -7,6 +8,7 @@ blocks:
       - d-sm-block
     style:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+      min-height: 75vh
   company:
     title: |
       Компания
@@ -16,10 +18,12 @@ blocks:
       - |
         Все данные зашифрованы и хранятся в облачных серверах.
       - |
+        [Пройти к уставу фонда Citizen OS.](https://drive.google.com/file/d/1xDUcBjs6NYtF5d8Z3KeYPML60D2B254J/view) На данный момент документ на эстонском языке, но находится в процессе перевода на другие языки.
+      - |
         #### Citizen OS поддерживают:
       - |
         - [Фонд Let’s Do It! ](https://www.letsdoitworld.org/)
-        - [Эстонская ассамблея по сотрудничеству](https://www.kogu.ee/en/)
+        - [Эстонская ассамблея по сотрудничеству](https://www.kogu.ee/ru/)
         { .arrow }
       - |
         Проект Citizen OS финансировался [фондом для НПО по грантам ЕЭЗ](https://oef.org.ee/en/our-work/ngo-fund/) через [Фонд «Открытая история»](https://oef.org.ee/en/).

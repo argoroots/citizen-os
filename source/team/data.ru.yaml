@@ -1,5 +1,6 @@
 ---
 title: Команда
+image: /assets/images/fbimg-home.jpg
 blocks:
   team-img:
     class:
@@ -7,6 +8,7 @@ blocks:
       - d-sm-block
     style:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+      min-height: 75vh
   team:
     title: |
       Команда
@@ -39,7 +41,7 @@ blocks:
         title: Маркетинг и связи с общественностью
         name: Лийна Гуйтер
       - 
-        title: Партнерство
+        title: Partnerships and Community
         name: Анетт Линно
       - 
         title: Дизайнеры UX/UI

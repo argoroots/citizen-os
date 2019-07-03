@@ -1,16 +1,13 @@
 ---
+image: /assets/images/fbimg-home-alt.jpg
 header:
-  title: Lasst uns gemeinsam entscheiden! Eure Plattform für Petitionen und Entscheidungsfindung - Im Team oder als Gemeinschaft.
+  title: Let's decide together! Your platform for petitions and decision-making in a team or community.
   text: |
     Edit documents with others at the same time,
     structure discussions, involve thousands or millions of members,
     keep voting deadlines, collect votes for petitions.
-
-    We are an Open Source social enterprise.
-
-    The platform is currently available in 12 languages.
   play:
-    title: Einführung
+    title: Introduction
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en
   demo:
     title: Demo
@@ -35,11 +32,11 @@ blocks:
       background-position: 0% 25%
       background-size: 360px 360px
     title: |
-      Open Source Software entwickeln.
+      Developing Open Source software.
     text: |
-      Wir sind der Meinung, dass die Instrumente für eine Online-Partizipatorische Demokratie für jedermann frei verfügbar sein sollten.
+      We believe the tools for online participatory democracy should be free to use for everyone.
     button1st:
-      title: Über das Produkt
+      title: About product
       url: /product/
   democracy-img:
     class:
@@ -62,11 +59,11 @@ blocks:
       background-position: 0 10%
       background-size: 122px 122px
     title: |
-      Sensibilisierung für die partizipative Demokratie erhöhen.
+      Raising awareness on Participatory Democracy.
     text: |
-      Wir glauben, dass der Weg für uns, als Zivilisation voranzukommen, darin besteht, global zusammenzufinden und Dinge zu entscheiden.
+      We believe the way for us to move forward as a civilization is to globally come together and decide on things.
     button1st:
-      title: Über die Vision
+      title: About vision
       url: /vision/
     button2nd:
   research-img:
@@ -88,11 +85,11 @@ blocks:
       background-position: 30% 25%
       background-size: 360px 360px
     title: |
-      Auf Forschung und Daten angewiesen.
+      Relying on Research and Data.
     text: |
-      Wir kooperieren mit Forschern der E-Demokratie, um unsere Produkte weiterzuentwickeln.
+      We collaborate with e-democracy researchers to help develop our products.
     button1st:
-      title: Über die Forschung
+      title: About research
       url: /research/
   news:
     class:
@@ -104,23 +101,23 @@ blocks:
       background-position: 60% 10%
       background-size: 360px 360px
     title: |
-      Letzte Neuigkeiten
+      Latest news
     text: |
       { #news-items }
     button1st:
-      title: Blog lesen
+      title: Read blog
       url: https://medium.com/citizenos
-    readMore: Mehr lesen
+    readMore: Read more
   team:
     class:
       - order-7
       - my-5
     title: |
-      Helfen Sie uns, Open Source Produkte zu entwickeln und partizipative Demokratie zu verbreiten.
+      Help us develop Open Source products and spread participatory democracy.
     text: |
-      Egal, ob Sie Entwickler, Übersetzer, Forscher, Designer, Hacktivist oder Journalist sind - Treten Sie uns bei!
+      Whether you are a developer, translator, researcher, designer, hacktivist or journalist - join us!
     button1st:
-      title: Mitwirken
+      title: Contribute
       url: /contribute/
   partners:
     class:
@@ -129,6 +126,6 @@ blocks:
     style:
       border-left: '1px solid #E5E5E5'
     title: |
-      Unsere Partner & Unterstützer
+      Our partners & supporters
     text: |
       ![Partners](/assets/images/frontpage-partners.png){ .mt-4 .w-100 }

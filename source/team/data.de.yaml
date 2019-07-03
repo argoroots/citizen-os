@@ -1,5 +1,6 @@
 ---
-title: Das Team
+title: Team
+image: /assets/images/fbimg-home.jpg
 blocks:
   team-img:
     class:
@@ -7,9 +8,10 @@ blocks:
       - d-sm-block
     style:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+      min-height: 75vh
   team:
     title: |
-      Das Team
+      Team
     people:
       - 
         title: Founder and Advisor
@@ -39,7 +41,7 @@ blocks:
         title: Marketing and Communications
         name: Liina Guiter
       - 
-        title: Partnerships
+        title: Partnerships and Community
         name: Anett Linno
       - 
         title: UX/UI Designers

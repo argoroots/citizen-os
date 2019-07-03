@@ -1,14 +1,11 @@
 ---
+image: /assets/images/fbimg-home-alt.jpg
 header:
   title: Let's decide together! Your platform for petitions and decision-making in a team or community.
   text: |
     Edit documents with others at the same time,
     structure discussions, involve thousands or millions of members,
     keep voting deadlines, collect votes for petitions.
-
-    We are an Open Source social enterprise.
-
-    The platform is currently available in 12 languages.
   play:
     title: Introduction
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en

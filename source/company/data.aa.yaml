@@ -1,5 +1,6 @@
 ---
 title: crwdns17028:0crwdne17028:0
+image: crwdns19314:0crwdne19314:0
 blocks:
   company-img:
     class:
@@ -7,6 +8,7 @@ blocks:
       - crwdns17902:0crwdne17902:0
     style:
       background: 'crwdns17904:0crwdne17904:0'
+      min-height: crwdns20064:0crwdne20064:0
   company:
     title: |
       crwdns17906:0crwdne17906:0
@@ -16,8 +18,10 @@ blocks:
       - |
         crwdns19076:0crwdne19076:0
       - |
-        crwdns19078:0crwdne19078:0
+        crwdns19248:0crwdne19248:0
       - |
-        crwdns19080:0{ .arrow }crwdne19080:0
+        crwdns19242:0crwdne19242:0
       - |
-        crwdns19082:0crwdne19082:0
+        crwdns19244:0{ .arrow }crwdne19244:0
+      - |
+        crwdns19246:0crwdne19246:0

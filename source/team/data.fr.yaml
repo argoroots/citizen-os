@@ -1,5 +1,6 @@
 ---
 title: Équipe
+image: /assets/images/fbimg-home.jpg
 blocks:
   team-img:
     class:
@@ -7,6 +8,7 @@ blocks:
       - d-sm-block
     style:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+      min-height: 75vh
   team:
     title: |
       Équipe
@@ -39,7 +41,7 @@ blocks:
         title: Marketing et communications
         name: Liina Guiter
       - 
-        title: Partenariats
+        title: Partnerships and Community
         name: Anett Linno
       - 
         title: Designers UX/UI

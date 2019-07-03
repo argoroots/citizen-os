@@ -1,5 +1,6 @@
 ---
 title: Vabad töökohad
+image: /assets/images/fbimg-home.jpg
 blocks:
   careers-img:
     class:
@@ -7,6 +8,7 @@ blocks:
       - d-sm-block
     style:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+      min-height: 75vh
   careers:
     title: |
       Kuidas liituda meie tiimiga?

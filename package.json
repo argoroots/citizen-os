@@ -4,7 +4,7 @@
   "description": "Collaborative decisions for teams and communities",
   "private": true,
   "dependencies": {
-    "entu-ssg": "5.0.3"
+    "entu-ssg": "5.0.5"
   },
   "scripts": {
     "build": "entu-ssg entu-ssg.yaml full"

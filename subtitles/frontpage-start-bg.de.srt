@@ -1,122 +1,122 @@
 1
 00:00:01,880 --> 00:00:04,640
-Wie das System derzeit funktioniert
+The way that the system currently functions
 
 2
 00:00:04,640 --> 00:00:07,280
-ist basierend auf Traditionen und der Art und Weise wie Dinge
+is built on traditions and the way that things have
 
 3
 00:00:07,280 --> 00:00:08,140
-schon immer waren.
+always been.
 
 4
 00:00:08,140 --> 00:00:12,300
-Es ist ein kollaboratives Online-Entscheidungstool,
+It's an online collaborative decision-making tool,
 
 5
 00:00:12,300 --> 00:00:14,660
-was im Grunde bedeutet, wenn Sie
+which basically means that if you have
 
 6
 00:00:14,660 --> 00:00:18,820
-viele Leute haben, die diskutieren möchten oder Argumente vorschlagen,
+many people that want to discuss, propose arguments,
 
 7
 00:00:18,820 --> 00:00:22,660
-entscheiden, über Dinge gemeinsam abstimmen wollen -
+decide, vote on things together -
 
 8
 00:00:22,660 --> 00:00:27,060
-sie alle müssen sich nicht länger, physikalisch, im gleichen Raum befinden.
+they no longer have to meet in the same physical space.
 
 9
 00:00:28,380 --> 00:00:30,300
-Oft wäre so etwas unmöglich
+Often that would be impossible
 
 10
 00:00:30,300 --> 00:00:32,200
-weil es einfach zu viele von ihnen gibt oder
+because there's too many of them or
 
 11
 00:00:32,200 --> 00:00:34,880
-sie sind geografisch zu weit verteilt.
+they are too geographically spread out.
 
 12
 00:00:35,820 --> 00:00:38,560
-Wir nutzten Citizen OS
+We have been using Citizen OS
 
 13
 00:00:38,580 --> 00:00:42,360
-für eine einfache organisatorische Aufgabe, wo
+for a simple organizational task, that
 
 14
 00:00:42,360 --> 00:00:45,800
-wir die Aufsichtsratsmitglieder benötigten,
+where we need our supervisory board members,
 
 15
 00:00:45,800 --> 00:00:48,480
-welche sich manchmal auf der ganzen Welt befinden
+who are around the world sometimes,
 
 16
 00:00:48,480 --> 00:00:51,620
-und physikalisch nicht immer verfügbar sind,
+and not always physically available,
 
 17
 00:00:51,620 --> 00:00:55,080
-um unsere internen politischen Dokumente zu prüfen.
+to review our internal policy documents.
 
 18
 00:00:55,760 --> 00:00:57,440
-Der einzige Weg für uns
+The only way for us to move
 
 19
 00:00:57,440 --> 00:01:00,200
-als Zivilisation voranzukommen, ist zu lernen,
+forward as a civilization is to learn to
 
 20
 00:01:00,200 --> 00:01:04,160
-wie man diese neue Qualität von Konnektivität nutzen kann.
+really make use of that new quality of connectedness.
 
 21
 00:01:04,160 --> 00:01:05,800
-Citizen OS ermöglicht all das.
+Citizen OS enables that.
 
 22
 00:01:05,820 --> 00:01:09,020
-Sie können eine große Anzahl von Leuten bringen,
+You can bring a big number of people,
 
 23
 00:01:09,020 --> 00:01:13,860
-Sie können über Dinge, über Petitionen,
+you can decide on things, on petitions,
 
 24
 00:01:13,860 --> 00:01:16,380
-über Entscheidungen und Dokumente entscheiden.
+on decisions, on documents.
 
 25
 00:01:16,380 --> 00:01:19,440
-Für eine gemeinnützige Organisation, für eine Bürgerbewegung,
+For a non-profit organization, for a civic movement,
 
 26
 00:01:19,440 --> 00:01:22,260
-für eine Dorfgemeinde.
+for a village municipality.
 
 27
 00:01:22,260 --> 00:01:25,620
-Bis hin zu einer Ebene einer nationalen Regierung
+Up to the level of a national government
 
 28
 00:01:25,620 --> 00:01:28,760
-oder selbst die Bürger eines Planeten.
+or even the citizens of a planet.
 
 29
 00:01:29,380 --> 00:01:31,900
-Es gibt keine Obergrenze
+There's no upper limit
 
 30
 00:01:31,900 --> 00:01:34,860
-außer, ja, des Planeten.
+other than, yeah, the planet.
 
 31
 00:01:35,120 --> 00:01:38,920

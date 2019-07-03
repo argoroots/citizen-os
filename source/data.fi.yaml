@@ -1,14 +1,11 @@
 ---
+image: /assets/images/fbimg-home-alt.jpg
 header:
   title: Tehdään päätöksiä yhdessä! Oma alustasi adresseille ja päätöksenteolle ryhmänä tai yhteisönä.
   text: |
-    Muokkaa asiakirjoja samaan aikaan muiden kanssa,
-    jäsennä keskusteluja, osallistuta tuhansia tai miljoonia jäseniä,
-    pidä kiinni äänestysten määräajoista, kerää ääniä adresseihin.
-
-    Olemme sosiaalinen avoimen lähdekoodin yritys.
-
-    Alusta on tällä hetkellä saatavilla 12 kielellä.
+    Edit documents with others at the same time,
+    structure discussions, involve thousands or millions of members,
+    keep voting deadlines, collect votes for petitions.
   play:
     title: Johdanto
     url: https://www.youtube.com/embed/hDLWbQQAk8g?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=fi

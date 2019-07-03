@@ -36,7 +36,7 @@ mobileMenu: MENU
 
 newsletter:
     title: Sign up for the Citizen OS newsletter!
-    text: We'll recommended great reads on how participatory democracy will save humanity.
+    text: We'll recommend great reads on how participatory democracy will save humanity.
     input: Email address
     button: Sign up
 
@@ -62,7 +62,7 @@ footer:
                     title: Contact
                     url: /contact/
         community:
-            title: Community
+            title: Social Media
             links:
                 blog:
                     title: Blog
@@ -79,9 +79,6 @@ footer:
                 guides:
                     title: Guides
                     url: https://app.citizenos.com/en/topics/c6b6d06a-e8cf-4297-9654-8c1cf01b133b
-                resources:
-                    title: Resources
-                    url: /resources/
                 legal:
                     title: Legal
                     url: /legal/

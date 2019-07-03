@@ -1,16 +1,17 @@
 ---
-title: Artikel
+title: Product
+image: /assets/images/fbimg-product.jpg
 blocks:
   decision-img:
     class:
       - order-1
     style:
       background-color: '#FFF1AD'
-      background-image: url(/assets/images/bubble-dots.png), url(/assets/images/bubble-orange.svg)
-      background-position: 0% 20%, 70% 10%
-      background-size: 350px 350px, 100px 100px
+      background-image: url(/assets/images/product-start.png), url(/assets/images/bubble-dots.png), url(/assets/images/bubble-orange.svg)
+      background-position: center center, 0% 20%, 70% 10%
+      background-size: 500px 500px, 350px 350px, 100px 100px
     text: |
-      [![](/assets/images/product-start.png){ .img-fluid }](https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en){data-toggle=modal data-target=#video-popup}
+      [► Play demo](https://www.youtube.com/embed/UC44qCCIixE?rel=0&showinfo=0&modestbranding=1&autoplay=1&cc_load_policy=1&cc_lang_pref=en){.btn .btn-primary data-toggle=modal data-target=#video-popup}
   decision:
     class:
       - order-0
@@ -22,7 +23,7 @@ blocks:
       background-position: 10% 5%, 90% 90%
       background-size: 75px 75px, 65px 65px
     title: |
-      Online-Entscheidungsfindung in Teams und Gemeinden.
+      Online decision-making in teams and communities.
     text: |
       Make argument-based decisions. Structure discussions and meet your voting deadlines. Collect votes for petitions.
 
@@ -32,7 +33,7 @@ blocks:
       - [Case studies](#case-study-2)
       { .arrow }
     button1st:
-      title: Für neue Nachrichten anmelden
+      title: Sign up for news
       url: '#subscribe'
   flexibleformat:
     class:
@@ -44,32 +45,32 @@ blocks:
       padding-bottom: 5rem
       background-image: url(/assets/images/pattern.svg)
       background-size: 38px 42px
-    label: Flexibles Format
+    label: A flexible format
     title: |
-      Wie können Sie die Citizen OS Plattform nutzen?
+      How can you use Citizen OS’s platform?
     text: |
       { #flexibleformat-items }
     blocks:
       petitions:
         poster: /assets/images/flexibleformat-petitions.png
-        title: Petitionen
+        title: Petitions
         text: |
-          Arbeiten Sie zusammen. Sammeln Sie Tausende oder Millionen von Unterschriften. Bleiben Sie informiert.
+          Edit collaborately. Collect thousands or millions of signatures. Follow up with news.
       onlinemeetings:
         poster: /assets/images/flexibleformat-onlinemeetings.png
-        title: Online-Meetings
+        title: Online meetings
         text: |
-          Meetings online durchführen. Jeder kann Kommentare hinterlassen und einen geeigneten Zeitpunkt abstimmen.
+          Carry out meetings online. Everyone can leave their comments and vote at a time suitable for them.
       gatheringideas:
         poster: /assets/images/flexibleformat-gatheringideas.png
-        title: Ideen sammeln
+        title: Gathering ideas
         text: |
-          Teilen Sie Ihren Entscheidungsprozess mit einem größeren Publikum.
+          Share your decision-making process with a bigger audience.
       widget:
         poster: /assets/images/flexibleformat-widget.png
-        title: Pro- und Kontra-Diskussionen
+        title: Pro-con argumented discussions
         text: |
-          Integrieren Sie unser Widget auf Ihrer Webseite, um Pro- und Kontra-Diskussion durchzuführen.
+          Integrate our widget in your site or platform to conduct discussion based on pro and con arguments.
   features-img:
     class:
       - order-3
@@ -85,26 +86,26 @@ blocks:
       - order-4
     style:
       background: '#F7F7F7'
-    label: Merkmale
+    label: Features
     title: |
-      Klarheit
+      Clarity
     text: |
-      - Übersicht zum Fortschritt von Entscheidungsfindungen
-      - Abstimmungsfristen
+      - Overview of decision-making progress.
+      - Voting deadlines.
       { .bullet }
 
-      ## Beteiligung{ .mt-5 }
+      ## Involvement{ .mt-5 }
 
-      - Ideen werden von unten nach oben gesammelt
-      - Diskussionen erfolgen strukturiert
-      - Kann Tausende oder Millionen von Teilnehmern involvieren
+      - Ideas are collected bottom-up.
+      - Discussion occurs in a structured way.
+      - Can involve thousands or millions of participants.
       { .bullet }
 
-      ## Sicherheit & Forschung{ .mt-5 }
+      ## Security & Research{ .mt-5 }
 
-      - Kontinuierliche Entwicklung, um auf den Stand der aktuellen Gesetzgebung zu sein
-      - Produktentwicklung verfolgt wissenschaftliche Herangehensweise
-      - Verschlüsselte Datenspeicherung, sichere Plattform auf einem Cloud-Server
+      - Continuous development to keep up with new laws.
+      - Product development follows scientific approach.
+      - Safe encrypted data, secure platform in a cloud server.
       { .bullet }
   options:
     class:
@@ -114,32 +115,32 @@ blocks:
     style:
       background: '#AAF3DD'
     title: |
-      Produkte
+      Products
     blocks:
       app:
-        title: Auf unserer Website verwenden
+        title: Use on our website
         text: |
-          Die Citizen OS Plattform ist für jedermann auf unserer Webseite kostenlos.
-        subtext: Für immer kostenlos!
+          The Citizen OS platform is free to use on our website for everyone.
+        subtext: Free for ever!
         button:
-          title: Plattform verwenden
+          title: Use platform
           url: https://app.citizenos.com
           target: _blank
       api:
-        title: API integrieren
+        title: Integrate API
         text: |
-          Verwenden Sie die Citizen OS API als Basis, um eine Online-Entscheidungsplattform mit Ihrem eigenen Branding zu erstellen.
-        subtext: Angebot
+          Use The Citizen OS API as a base to build an online decision-making platform with your own branding.
+        subtext: Free for ever!
         button:
-          title: Kontaktieren Sie uns
-          url: /contact/
+          title: GitHub
+          url: https://github.com/citizenos/citizenos-web
       consult:
-        title: Beratung & Integration
+        title: Consult & integrate
         text: |
-          Überlassen Sie alles unserem Team, von der Beratung bis hin zu der Anpassung Ihrer Systeme.
-        subtext: Angebot
+          Let our team do all the work from consulting to a working adaptation with your systems.
+        subtext: Offer based
         button:
-          title: Uns kontaktieren
+          title: Contact us
           url: /contact/
   case-study-2-img:
     class:
@@ -154,9 +155,9 @@ blocks:
       background-position: 80% 5%
       background-size: 122px 122px
     title: |
-      Fallstudie: Kommunikation zwischen Bürgern und der Regierung Estlands
+      Case Study: Communication Between the Citizens and the Government of Estonia
     text: |
-      Der Citizen OS Open-Source-Code wurde verwendet, um die Plattform für Bürgerinitiative [www.rahvaalgatus.ee] (https://www.rahvaalgatus.ee) einzurichten. Hier können Petitionen gestartet und Stimmen gesammelt werden, diese werden dann an das Parlament gesendet.
+      The Citizen OS open source code was used to set up the citizen initiatives platform [www.rahvaalgatus.ee](https://www.rahvaalgatus.ee), where petitions can be started, votes can be collected and sent to the Parliament.
   case-study-img:
     class:
       - order-8
@@ -186,17 +187,17 @@ blocks:
       background-image: url(/assets/images/pattern.svg)
       background-size: 38px 42px
     title: |
-      Unsere Online-Entscheidungsgemeinschaft wächst stetig.
+      Our online decision-making community is growing.
     button1st:
-      title: Plattform verwenden
+      title: Use platform
       url: https://app.citizenos.com
       target: _blank
     blocks:
       topicsCreated:
-        title: Diskussionen
+        title: discussions
       votesCast:
-        title: Abstimmungen
+        title: votes
       groupsCreated:
-        title: Gruppen
+        title: groups
       usersCreated:
-        title: Benutzer
+        title: users

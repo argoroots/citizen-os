@@ -1,5 +1,6 @@
 ---
 title: Company
+image: /assets/images/fbimg-home.jpg
 blocks:
   company-img:
     class:
@@ -7,6 +8,7 @@ blocks:
       - d-sm-block
     style:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+      min-height: 75vh
   company:
     title: |
       Company
@@ -15,6 +17,8 @@ blocks:
         Citizen OS is an open source social enterprise, located in Estonia. The Government of Estonia became the first API partner in January, 2016. Since then, Citizen OS has gained the trust of many public and private user groups around the world.
       - |
         All data is encrypted and kept safe in cloud servers.
+      - |
+        [Please find the Articles of Association of Citizen OS Foundation here.](https://drive.google.com/file/d/1xDUcBjs6NYtF5d8Z3KeYPML60D2B254J/view) The document is in Estonian at the moment, but in the process of being translated into other languages.
       - |
         #### Citizen OS is supported by:
       - |

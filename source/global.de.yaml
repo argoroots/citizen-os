@@ -2,7 +2,7 @@
 siteTitle: Citizen OS
 navigation:
   product:
-    title: Produkt
+    title: Product
     url: /product/
     class: product
   vision:
@@ -10,7 +10,7 @@ navigation:
     url: /vision/
     class: vision
   research:
-    title: Forschung
+    title: Research
     url: /research/
     class: research
   blog:
@@ -25,35 +25,40 @@ languages:
   lt: Lietuvių
   lv: Latviešu
   ru: Pусский
-  ua: Українськаw
-selectLanguage: Sprachen
+  ua: Українська
+selectLanguage: Languages
 platformLink:
-  title: Plattform verwenden
+  title: Use platform
   url: https://app.citizenos.com
-mobileMenu: Menu
+mobileMenu: MENU
+newsletter:
+  title: Sign up for the Citizen OS newsletter!
+  text: We'll recommended great reads on how participatory democracy will save humanity.
+  input: Email address
+  button: Sign up
 footer:
-  text: Citizen OS ist ein Open Source Sozialunternehmen.
+  text: Citizen OS is an Open Source Foundation.
   navigation:
     about:
-      title: Über uns
+      title: About
       links:
         company:
-          title: Unternehmen
+          title: Company
           url: /company/
         careers:
-          title: Karrieren
+          title: Careers
           url: /careers/
         contribute:
-          title: Mitwirken
+          title: Contribute
           url: /contribute/
         team:
-          title: Unser Team
+          title: Team
           url: /team/
         contact:
-          title: Kontakt
+          title: Contact
           url: /contact/
     community:
-      title: Gemeinschaft
+      title: Social Media
       links:
         blog:
           title: Blog
@@ -65,14 +70,14 @@ footer:
           title: Facebook
           url: https://www.facebook.com/citizenos.web
     support:
-      title: Unterstützung
+      title: Support
       links:
         guides:
-          title: Anleitungen
+          title: Guides
           url: https://app.citizenos.com/en/topics/c6b6d06a-e8cf-4297-9654-8c1cf01b133b
         legal:
-          title: Rechtliches
-          url: https://app.citizenos.com/en/topics/7abdd244-d45b-40d3-997c-a6290d4e972c
+          title: Legal
+          url: /legal/
         github:
           title: GitHub
           url: https://github.com/citizenos

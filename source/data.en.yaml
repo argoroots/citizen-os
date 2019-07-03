@@ -9,9 +9,11 @@ image: /assets/images/fbimg-home-alt.jpg
 header:
     title: Argument-based discussions and collaborative decision-making for grassroots.
     text: |
-        Our mission is to empower people to participate in meaningful discussions and make collaborative decisions.
+        Open source products.
 
-        Our products are open source.
+        Empowering as many people as possible
+        to participate in meaningful discussions and
+        to make collaborative decisions.
 
     play:
         title: Introduction
@@ -82,9 +84,9 @@ blocks:
             background-position: 0 10%
             background-size: 122px 122px
         title: |
-            Join the civic hacktivist community.
+            Raising awareness on participatory democracy.
         text: |
-            We believe the way for us to move forward as a civilization is to globally come together and decide on things.
+            We believe the way for us to move forward as a civilization is to globally come together and decide on issues that affect our wellbeing.
         button1st:
             title: About vision
             url: /vision/
@@ -115,9 +117,9 @@ blocks:
             background-size: 360px 360px
         # label: Let’s Educate
         title: |
-            The development of e-democracy.
+            Developing e-democracy.
         text: |
-            We collaborate with e-democracy researchers to help develop our products.
+            We collaborate with researchers to help develop our products.
         button1st:
             title: About research
             url: /research/

@@ -1,5 +1,6 @@
 ---
 title: Organisatsioon
+image: /assets/images/fbimg-home.jpg
 blocks:
   company-img:
     class:
@@ -7,6 +8,7 @@ blocks:
       - d-sm-block
     style:
       background: 'linear-gradient(180deg, #0EB7FE 0%, #0680FC 100%)'
+      min-height: 75vh
   company:
     title: |
       Organisatsioon
@@ -16,10 +18,12 @@ blocks:
       - |
         Kõik andmed on krüptitud ja neid hoitakse turvaliselt pilveserverites.
       - |
+        [Sihtasutuse Citizen OS põhikirja leiad siit.](https://drive.google.com/file/d/1xDUcBjs6NYtF5d8Z3KeYPML60D2B254J/view) Dokument on hetkel kättesaadav vaid eestikeelsena, kuid varsti ilmub see ka teistes keeltes.
+      - |
         #### Citizen OS-i toetavad:
       - |
         - ["Teeme ära!" Fond](https://www.letsdoitworld.org/)
-        - [Eesti Koostöökogu](https://www.kogu.ee/en/)
+        - [Eesti Koostöökogu](https://www.kogu.ee/)
         { .arrow }
       - |
         Projekti Citizen OS rahastas [MTÜ Fund EEA Grants](https://oef.org.ee/en/our-work/ngo-fund/) [Avatud Eesti Fondi](https://oef.org.ee/en/) vahendusel.

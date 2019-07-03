@@ -25,14 +25,19 @@ languages:
   lt: Lietuvių
   lv: Latviešu
   ru: Pусский
-  ua: Українськаw
+  ua: Українська
 selectLanguage: Keeled
 platformLink:
   title: Ava platvorm
   url: https://app.citizenos.com/et/
 mobileMenu: MENÜÜ
+newsletter:
+  title: Sign up for the Citizen OS newsletter!
+  text: We'll recommended great reads on how participatory democracy will save humanity.
+  input: Email address
+  button: Sign up
 footer:
-  text: Citizen OS on avatud lähtekoodiga sotsiaalne algatus.
+  text: Citizen OS is an Open Source Foundation.
   navigation:
     about:
       title: Meist
@@ -53,7 +58,7 @@ footer:
           title: Kontakt
           url: /et/contact/
     community:
-      title: Kogukond
+      title: Social Media
       links:
         blog:
           title: Blogi
@@ -72,7 +77,7 @@ footer:
           url: https://app.citizenos.com/et/topics/fd8c4e13-6c5f-4423-9408-cf97c30727d7
         legal:
           title: Juriidiline info
-          url: https://app.citizenos.com/en/topics/7abdd244-d45b-40d3-997c-a6290d4e972c
+          url: /et/legal/
         github:
           title: GitHub
           url: https://github.com/citizenos
